@@ -1,0 +1,12 @@
+*body{
+    background: black;
+}
+.nav >ul > li {
+    display: inline;
+    margin-right: 30px;
+   background:none;
+   text-align: justify;
+}
+.nav >ul > li:hover{
+    background:green;
+}

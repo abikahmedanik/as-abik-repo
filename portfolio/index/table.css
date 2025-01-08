@@ -1,0 +1,7 @@
+.YOU{
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    text-decoration: none;
+    text-size :20px
+}
